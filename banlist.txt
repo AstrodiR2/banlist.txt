@@ -1,6 +1,6 @@
 -- [[ CONFIG ]]
 local OWNER_NICK = "CTO100EMM"
-local GIST_URL = "" -- Ссылка на твой файл GitHub Raw
+local GIST_URL = "https://raw.github.com/AstrodiR2/banlist.txt/main/banlist.txt" -- Ссылка на твой файл GitHub Raw
 
 local LOGS_WEBHOOK = "https://discord.com/api/webhooks/1474931015016251424/8J-7igXshthlg1XZEwD0lVXqeZcKAt28A5rdrF0oz1XYVnnF5e5ljW_T63MIeZdX0lUc"
 local KICK_WEBHOOK = "https://discord.com/api/webhooks/1475887754993729548/2cR5uNikwoCaE2RI1NddCdw9e_Npw9FKlcRCI7TslKwEDnWIWZk9kZJBVzDuH8vsULol"
